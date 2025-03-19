@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\RMTechSolutionsLtda\\Nu-Packages\\RMTech.TestPackage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82104E65-F914-410F-9FAE-77A2AF9F4118}|RMTech.TestPackage\\RMTech.TestPackage.csproj|d:\\dev\\rmtechsolutionsltda\\nu-packages\\rmtech.testpackage\\rmtech.testpackage\\rmtech.testpackage.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{82104E65-F914-410F-9FAE-77A2AF9F4118}|RMTech.TestPackage\\RMTech.TestPackage.csproj|solutionrelative:rmtech.testpackage\\rmtech.testpackage.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RMTech.TestPackage",
+              "DocumentMoniker": "D:\\dev\\RMTechSolutionsLtda\\Nu-Packages\\RMTech.TestPackage\\RMTech.TestPackage\\RMTech.TestPackage.csproj",
+              "RelativeDocumentMoniker": "RMTech.TestPackage\\RMTech.TestPackage.csproj",
+              "ToolTip": "D:\\dev\\RMTechSolutionsLtda\\Nu-Packages\\RMTech.TestPackage\\RMTech.TestPackage\\RMTech.TestPackage.csproj",
+              "RelativeToolTip": "RMTech.TestPackage\\RMTech.TestPackage.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T05:00:12.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

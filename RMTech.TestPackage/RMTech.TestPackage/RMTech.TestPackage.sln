@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMTech.TestPackage", "RMTech.TestPackage.csproj", "{026C6A67-3164-49DF-0B29-8324617D2EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026C6A67-3164-49DF-0B29-8324617D2EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026C6A67-3164-49DF-0B29-8324617D2EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026C6A67-3164-49DF-0B29-8324617D2EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026C6A67-3164-49DF-0B29-8324617D2EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB28EAAD-E06A-48AB-AE97-E0BB99FE8955}
+	EndGlobalSection
+EndGlobal

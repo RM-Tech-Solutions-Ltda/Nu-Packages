@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Pacote Teste</Title>
+    <Authors>RM Tech Solutions Ltda.</Authors>
+    <Description>A simple package with some utils to test package criation</Description>
+    <PackageReleaseNotes>Setup</PackageReleaseNotes>
+    <PackageId>RMTech.TestPackage</PackageId>
+    <PackageTags>array, utils, single number</PackageTags>
+    <Version>1.0.0</Version>
+    <Copyright>RM Tech Solution Ltda.</Copyright>
+    <RepositoryUrl>https://github.com/RM-Tech-Solutions-Ltda/Nu-Packages/RMTech.TestPackage</RepositoryUrl>
+    <PackageOutputPath>$(OutputPath)</PackageOutputPath>
+    <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="dist\" />
+  </ItemGroup>
+
+</Project>
