@@ -55,3 +55,9 @@ nunit-*.xml
 
 # Visual Studio
 .vs
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/Nu-Packages/v17/.wsuo
+/.vs/Nu-Packages/FileContentIndex/f404b443-8874-4373-adf6-bb905e2ca856.vsidx
+/RMTech.TestPackage/RMTech.InstallPackageTest/.vs/RMTech.InstallPackageTest/FileContentIndex/2eab7b5f-3c03-4e1f-a88c-e1e682db5fee.vsidx
+/RMTech.TestPackage/RMTech.InstallPackageTest/.vs/RMTech.InstallPackageTest/v17/.suo
